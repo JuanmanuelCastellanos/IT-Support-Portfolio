@@ -13,6 +13,7 @@ I am transitioning my troubleshooting and leadership experience into IT support 
 ## Portfolio Projects
 ### HD-001 — Company Portal Access Issue (Simulated Help Desk Incident)
 [View HD-001 Project Documentation](HD%20001%20Network%20Troubleshooting/HD-001-README.md)
+
 Scenario: A fictional employee reported that the company portal would not load in Microsoft Edge.
 
 Investigation: Performed a real network diagnostic baseline on Windows 11, including IP configuration, loopback and external IP pings, DNS resolution, and HTTPS port testing. The simulated help desk workflow included browser comparison, Edge InPrivate testing, and extension isolation.
