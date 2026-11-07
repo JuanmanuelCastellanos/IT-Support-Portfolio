@@ -22,6 +22,12 @@ Simulated resolution: Disabling a recently installed browser extension restored 
 
 Evidence distinction: The Windows commands were executed on my own computer. The employee interaction and company portal issue were training simulations, not a real employer incident.
 
+### HD-002 — Windows 11 NTFS Permissions Troubleshooting
+
+[View HD-002: Windows Permissions Troubleshooting Lab](HD%20002%20Permissions/HD-002-README.md)
+
+Hands-on Windows 11 lab covering NTFS permissions, inheritance, Effective Access, and file-access verification. Includes a separate simulated help desk incident demonstrating troubleshooting, authorization, and resolution documentation.
+
 **Status:** Completed — Documentation and diagnostic evidence published.
 ## Education and Credentials
 - Western Governors University: B.S. Computer Science, in progress
