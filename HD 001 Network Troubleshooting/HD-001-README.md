@@ -43,6 +43,10 @@ A fictional employee, Sarah Mitchell, reported `ERR_CONNECTION_TIMED_OUT` for a 
 1. `HD-001-README.md` — Overview and honest scope of the work
 2. `HD-001-Incident-Report.md` — Detailed support ticket and troubleshooting timeline
 3. `HD-001-Screenshot-Guide.md` — Screenshot checklist, naming, and privacy instructions
+## Project Documentation
+
+- [Incident Report](HD-001-Incident-Report.md)
+- [Screenshot Guide](HD-001-Screenshot-Guide.md)
 
 ## Evidence files
 
