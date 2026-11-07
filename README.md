@@ -1,4 +1,4 @@
-IT Support Portfolio — Juanmanuel Flores Castellanos
+# IT Support Portfolio — Juanmanuel Flores Castellanos
 ITIL 4 Foundation Certified | B.S. Computer Science Student (WGU) | U.S. Marine Corps Veteran
 
 Welcome to my IT support portfolio. I document hands-on Windows troubleshooting, networking fundamentals, service desk processes, and structured incident resolution. My goal is to demonstrate how I investigate technical issues, evaluate evidence, communicate with users, and document outcomes.
