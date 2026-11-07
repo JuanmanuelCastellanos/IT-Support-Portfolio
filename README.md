@@ -22,7 +22,7 @@ Simulated resolution: Disabling a recently installed browser extension restored 
 
 Evidence distinction: The Windows commands were executed on my own computer. The employee interaction and company portal issue were training simulations, not a real employer incident.
 
-Publication status: Completed locally. The full case notes and redacted screenshot evidence will be added here.
+**Status:** Completed — Documentation and diagnostic evidence published.
 ## Education and Credentials
 - Western Governors University: B.S. Computer Science, in progress
 - ITIL 4 Foundation: Certified
