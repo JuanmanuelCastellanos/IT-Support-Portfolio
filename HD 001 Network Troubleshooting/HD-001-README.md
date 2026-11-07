@@ -40,7 +40,7 @@ A fictional employee, Sarah Mitchell, reported `ERR_CONNECTION_TIMED_OUT` for a 
 
 ## Portfolio contents
 
-1. [Project Overview](HD-001-README.md) — Summary of the troubleshooting exercise
+1. [Back to Main Portfolio](../README.md) — Return to the main IT Support Portfolio
 2. [Incident Report](HD-001-Incident-Report.md) — Detailed support ticket, investigation, and resolution
 3. [Screenshot Guide](HD-001-Screenshot-Guide.md) — Diagnostic evidence and screenshot documentation
 
